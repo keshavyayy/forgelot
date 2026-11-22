@@ -95,8 +95,8 @@ It pairs deep agentic capabilities with strict diff safety, explainable context 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/keshavyayy/forgelot.git
-   cd forgelot
+   git clone https://github.com/keshavyayy/forgepilot.git
+   cd forgepilot
    ```
 
 2. Install dependencies:
